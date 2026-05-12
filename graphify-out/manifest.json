@@ -1,0 +1,2394 @@
+{
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\postcss.config.js": {
+    "mtime": 1772798749.0,
+    "hash": "33fad9c02cb0ec6d6030369ef6347d57"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\tailwind.config.js": {
+    "mtime": 1772798749.0,
+    "hash": "e148ca262df760242cbd8f73d097c279"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\test.js": {
+    "mtime": 1772798749.0,
+    "hash": "bfa3d8529de3c7f2eaf1bfa33f3a9868"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\vite.config.js": {
+    "mtime": 1772798749.0,
+    "hash": "246e30735b2bef694a462ae31002974d"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\App.jsx": {
+    "mtime": 1777704672.0,
+    "hash": "289ea30540f164f1335bf3012f16e1d0"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\main.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "5a47d533e6210fc9d98b5c8340d764ae"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\components\\AdminHeader.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "e01825a9a0ff8d0cf3775a152ee603dc"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\components\\AdminSidebar.jsx": {
+    "mtime": 1776098354.0,
+    "hash": "f6e4b15823fd1c7ed295ee18c43ed01b"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\constants\\navigation.js": {
+    "mtime": 1773919542.0,
+    "hash": "0f4c8236ca30f580f28b349be0640498"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\layouts\\AdminLayout.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "65e4a9799ce1d02d5d9c6f3260023fdd"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\approvals\\Approvals.jsx": {
+    "mtime": 1774605801.0,
+    "hash": "2686013980c028ad7e3a4551616e771b"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\dashboard\\DeliveryDashboard.jsx": {
+    "mtime": 1774603800.0,
+    "hash": "0fbe6f84f4961abfc05970e3cc5b391c"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\dashboard\\InstallerDashboard.jsx": {
+    "mtime": 1774603705.0,
+    "hash": "c435a25088d721f099326f9a4b3d91de"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\dashboard\\InventoryDashboard.jsx": {
+    "mtime": 1774604010.0,
+    "hash": "1d7c0fdd1581d99bf93675ddf9ebe9ab"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\dashboard\\OrdersByLoanDashboard.jsx": {
+    "mtime": 1774603083.0,
+    "hash": "6941cebf8b568c26a112ea136cf25f0f"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\dashboard\\OrdersDashboard.jsx": {
+    "mtime": 1774601365.0,
+    "hash": "6d89e8aaee389d689ef4d7b0420d1e9d"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\dashboard\\ProjectReport.jsx": {
+    "mtime": 1776532628.0,
+    "hash": "26f2370380194ebbea2d23d44e072284"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\dashboard\\VendorsDashboard.jsx": {
+    "mtime": 1774604144.0,
+    "hash": "bd00b2112f289959a882649ee7a32618"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\dashboard\\userPerformance\\DealerDashboard.jsx": {
+    "mtime": 1774605319.0,
+    "hash": "30a829618fb9641d08afc661e3932392"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\dashboard\\userPerformance\\DealerManagerDashboard.jsx": {
+    "mtime": 1774605137.0,
+    "hash": "a3f3c9d1bf98baa3986496b5053799e4"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\dashboard\\userPerformance\\FranchiseDashboard.jsx": {
+    "mtime": 1774604850.0,
+    "hash": "d2365e5379c3ba540dece2b9d4b2f9c2"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\dashboard\\userPerformance\\FranchiseManagerDashboard.jsx": {
+    "mtime": 1774600032.0,
+    "hash": "60d17f6c06535b57b3331cc868771aed"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\departments\\Departments.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "228b6f0640393b52ffe1a84184b727e7"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\departments\\OrganizationChart.jsx": {
+    "mtime": 1776671028.0,
+    "hash": "e2d8de04970ba015ba63dcc288f08af9"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\marketing\\CampaignManagement.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "ceb05b2fc14999f24a14fdc61dd4a4c4"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\operations\\AddInventory.jsx": {
+    "mtime": 1774588752.0,
+    "hash": "83980d002bee14f29c4de522a4990f03"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\operations\\InventoryManagement.jsx": {
+    "mtime": 1774593429.0,
+    "hash": "b06eadc423f90e3ab455c07e00f47d6b"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\operations\\Operations.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "9293690e515f962a7b03f23ccf6e3231"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\operations\\Warehouse.jsx": {
+    "mtime": 1773728682.0,
+    "hash": "7db887e418107e1c134de83043b8e660"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\operations\\brand\\AddBrandManufacturer.jsx": {
+    "mtime": 1776430240.0,
+    "hash": "19c5bde68526ce8e050cf7eb9026774e"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\operations\\brand\\SupplierOverview.jsx": {
+    "mtime": 1774595234.0,
+    "hash": "ebd6d4ef7d962372e5ff28c9ca31798e"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\project-management\\commercial\\AdminCommercialProject.jsx": {
+    "mtime": 1774431769.0,
+    "hash": "072c4c392d72f8ee75c574cf1b8af7a4"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\project-management\\components\\ProjectForm.jsx": {
+    "mtime": 1773830425.0,
+    "hash": "40095f40715662b0823e4e62b7bcbcdf"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\project-management\\components\\ProjectTable.jsx": {
+    "mtime": 1773830562.0,
+    "hash": "91d6b6e427c754ce3b8d97a1ad2369c1"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\project-management\\components\\StatsCards.jsx": {
+    "mtime": 1773830533.0,
+    "hash": "af77041cc91d78583f03ad82f3dabec3"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\project-management\\install\\Install.jsx": {
+    "mtime": 1774680049.0,
+    "hash": "005e9f79cdce2b3d73c9ad94183d8780"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\project-management\\management\\Management.jsx": {
+    "mtime": 1774680032.0,
+    "hash": "e512f19a768ebf14fb24984d8ab0c950"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\project-management\\residential\\AdminResidentialProject.jsx": {
+    "mtime": 1774432891.0,
+    "hash": "50d3331021cb7273100f75f538f587d6"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\project-management\\service\\Service.jsx": {
+    "mtime": 1774680069.0,
+    "hash": "4aa57afb70660e0e15449a4020b24ee6"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\project-management\\track-service\\TrackService.jsx": {
+    "mtime": 1774680093.0,
+    "hash": "d41a47fa603866a06936bdc96c75cf26"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\projectManagement\\Manage.jsx": {
+    "mtime": 1773830680.0,
+    "hash": "2300bf203a949aa7351d9973ebb2dd1f"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\projectManagement\\Projects.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "e75b18f30cbd1f7b29fccfb358e7723a"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\projectManagement\\Track.jsx": {
+    "mtime": 1773830738.0,
+    "hash": "2fb0542d44badd57e014df9f47fa49f2"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\projectManagement\\components\\ProjectForm.jsx": {
+    "mtime": 1773830425.0,
+    "hash": "40095f40715662b0823e4e62b7bcbcdf"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\projectManagement\\components\\ProjectTable.jsx": {
+    "mtime": 1773830562.0,
+    "hash": "91d6b6e427c754ce3b8d97a1ad2369c1"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\projectManagement\\components\\StatsCards.jsx": {
+    "mtime": 1773830533.0,
+    "hash": "af77041cc91d78583f03ad82f3dabec3"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\reports\\CaptableReport.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "23cde7020dec273a42fc7543835edca0"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\reports\\CashflowReport.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "0f1e4f7aba4ebb2775b19a1254bbdaa2"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\reports\\CityReport.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "6d9eac5f6dc4276ba9e8bbe6ff4d958e"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\reports\\ClusterReport.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "b80a85487a84bc85201eb8034fd41ac8"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\reports\\DistrictReport.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "d0933c948daf9eb121788349b149afbf"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\reports\\FinancialPLReport.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "1e4e70290ed62d16d643fc5a32ec1a7b"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\reports\\InventoryReport.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "c8725deecb6d4ec1c6792ef427260eaf"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\reports\\LoansSummaryReport.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "8b0982a87a94216d1ce5d6bae05bf901"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\reports\\Reports.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "7543163a5019377044a0ff1f3579fa38"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\reports\\RevenueByCPTypesReport.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "a2a2fcfefda6b4eee38e8df115bdb18c"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\ApprovalOverdueSetting.jsx": {
+    "mtime": 1776529908.0,
+    "hash": "084b086d77d6b65ce59a30ff899b52c2"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\ChecklistSetting.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "e49c74eb247a208258dddafc4b92d335"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\LoanSetting.jsx": {
+    "mtime": 1777635990.0,
+    "hash": "6f7e0a9a0d919d0f90fd95d013c18112"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\OverdueStatusSetting.jsx": {
+    "mtime": 1776677735.0,
+    "hash": "f49234249180d10b42bfe2f5d73735b1"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\OverdueTaskSetting.jsx": {
+    "mtime": 1776676822.0,
+    "hash": "2fa0edfe6ffdc81cca2f6c1218773379"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\TEMPLATE_DynamicSettings.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "55dfd05a107bd05ce539fd301647ec74"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\brand\\AddBrandManufacturer.jsx": {
+    "mtime": 1776430250.0,
+    "hash": "35fd0e5969fccb475dc26e18d0849fa0"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\brand\\SupplierOverview.jsx": {
+    "mtime": 1773648781.0,
+    "hash": "a7c0733f72da8a6af3e368b8a1248ba8"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\combokit\\AddComboKit.jsx": {
+    "mtime": 1773646975.0,
+    "hash": "eb1c7153ffdcc08192cd449f3bad9264"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\combokit\\AmcServices.jsx": {
+    "mtime": 1773495906.0,
+    "hash": "088f8533cab0499c7c49397b44616c3b"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\combokit\\BundlePlans.jsx": {
+    "mtime": 1773568268.0,
+    "hash": "200796f04194d9a6e5b32ff8b358709d"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\combokit\\CreateAmc.jsx": {
+    "mtime": 1775729534.0,
+    "hash": "f63fdae28f4babb754794af7453823ea"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\combokit\\CreateSolarkit.jsx": {
+    "mtime": 1773479300.0,
+    "hash": "13d32e6d52c512d4e0364c55d9a15e0a"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\combokit\\Customize.jsx": {
+    "mtime": 1775718922.0,
+    "hash": "8f3b2da75107b343521f8fdb820e59a3"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\combokit\\ForDealer.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "a685a977e38ea8ed546412d3b7a10f59"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\combokit\\ForFranchisee.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "1c75d65d23545aff2c798312d6dc6fe7"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\combokit-overview\\CombokitOverview.jsx": {
+    "mtime": 1773726023.0,
+    "hash": "2f40ccc2f4e975be1632a0b79718bbf9"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\dealer\\OnboardingGoals.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "21ed540cfc3d62f8a8210e0b8c8686d9"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\dealer\\Plans.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "9d7c40a0ffcdb6372b59892d81e18f57"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\dealer\\PointsRewards.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "976b9e81be200f5ed87a9a40a4fcb4aa"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\dealer\\ProfessionType.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "f58ab80d75de344dcecb275df85762de"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\delivery\\BenchmarkPrice.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "01b426e441af143a14a470cae9a21322"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\delivery\\DeliveryType.jsx": {
+    "mtime": 1774417865.0,
+    "hash": "04f94651b718b9b5cce64d8f789722b6"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\delivery\\VehicleSelection.jsx": {
+    "mtime": 1774082563.0,
+    "hash": "7691c537053665833877b5e53e19d23b"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\delivery\\VendorDeliveryPlan.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "49344bfc0b34b653168f666d6ce13e27"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\franchisee\\OnboardingGoals.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "48ade4a00edee5faa9e6114429deba6a"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\franchisee\\OrderSetting.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "f4d4991407f2c5e911e0e7f5f41c1605"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\franchisee\\Plans.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "c9fe8063cfcbaa9293e296b7106ddb9b"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\franchisee\\PointsRewards.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "71d4fd396f61cbdc4fa58b3b625c3d70"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\franchisee\\ProfessionType.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "db0b9a6a516810ee6b929e458fdd22f1"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\hr\\CreateDepartment.jsx": {
+    "mtime": 1772957248.0,
+    "hash": "a34cdd59ce153d1ec4a5c02297c471d3"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\hr\\DepartmentWiseModules.jsx": {
+    "mtime": 1772957893.0,
+    "hash": "2c6a86783cf93a88802e7b0dd186669b"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\hr\\LeaveApprovals.jsx": {
+    "mtime": 1773125568.0,
+    "hash": "b19d98fc2806f04609a4554e01fb2c6b"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\hr\\ManageEmployees.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "77d2e2ac2e70ec96edce89e22d6b140e"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\hr\\ManageModules.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "c50c682d8501cdaddeadca097771d581"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\hr\\ResignApprovals.jsx": {
+    "mtime": 1773126640.0,
+    "hash": "fc8fc097c8c9de341abc5e96fd62e80e"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\hr\\RoleSettings.jsx": {
+    "mtime": 1773821417.0,
+    "hash": "3f9858834067e6f96123f3dac851f0aa"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\hr\\TemporaryInchargeSetting.jsx": {
+    "mtime": 1773127224.0,
+    "hash": "0880724415dd0ccc17baae7e41d93e80"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\hrms\\CandidateList.jsx": {
+    "mtime": 1772959714.0,
+    "hash": "cece79d64f218f361e435219252e1e86"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\hrms\\CandidateTestSetting.jsx": {
+    "mtime": 1773140497.0,
+    "hash": "a4a662e548a757451782c2547674276c"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\hrms\\CandidateTrainingSetting.jsx": {
+    "mtime": 1773140526.0,
+    "hash": "1eacde9d0cd0d556dd4b8cfb3ba3819c"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\hrms\\Settings.jsx": {
+    "mtime": 1773143986.0,
+    "hash": "43bd5a09512ef04ca2238bdb2a5440c3"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\hrms\\VacancySetting.jsx": {
+    "mtime": 1773140477.0,
+    "hash": "64fe8072292dc0e57065bff669c2b80b"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\installer\\Agency.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "89ee1ca81b1847d471bda2afa1cd9aea"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\installer\\AgencyPlan.jsx": {
+    "mtime": 1774869119.0,
+    "hash": "5407265f95233b381d151c6c48606ed4"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\installer\\RateSetting.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "4ba3e57d0150d8e472414cc47eb60d23"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\installer\\RatingSetting.jsx": {
+    "mtime": 1774862495.0,
+    "hash": "fe0f80c38fab603ffdb40122e7ee93a6"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\installer\\SolarInstaller.jsx": {
+    "mtime": 1774869119.0,
+    "hash": "ebc2aeb071ce66af37d6ae5052a9e3ba"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\installer\\ToolRequirements.jsx": {
+    "mtime": 1774766843.0,
+    "hash": "7ee0b9a7f3cab77cb997c9cd4878fdaa"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\inventory\\CombokitBrandOverview.jsx": {
+    "mtime": 1773905759.0,
+    "hash": "3e58af379ef540a32b1b061d021b21d9"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\inventory\\InventoryOverview.jsx": {
+    "mtime": 1773913088.0,
+    "hash": "a5c13bf03bc36cc12a85a2814ecd783f"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\inventory\\LevelManagementSetting.jsx": {
+    "mtime": 1773652406.0,
+    "hash": "69f701560c342c38d79c7e81bdaa7e29"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\inventory\\RestockOrderLimit.jsx": {
+    "mtime": 1773987640.0,
+    "hash": "ea01fcef3abc5c04ffbef2f01b2022bd"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\location\\LocationSelector.jsx": {
+    "mtime": 1772801591.0,
+    "hash": "daccb4abf2330894b102f87bf5fa9cc3"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\location\\SetupLocations.jsx": {
+    "mtime": 1774593746.0,
+    "hash": "79ea8196e234c037a1cfe9dde033d907"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\marketing\\CampaignManagement.jsx": {
+    "mtime": 1775733398.0,
+    "hash": "e7936695e32c743d3950530e025fdfeb"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\order-procurement\\OrderProcurement.jsx": {
+    "mtime": 1775460866.0,
+    "hash": "a869c61793beec0db8dd88ce1fb9f540"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\partner\\AddPartner.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "1869228e62fb5e6354231fa755bbb075"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\partner\\FranchiseBuyLeadSetting.jsx": {
+    "mtime": 1777705500.0,
+    "hash": "84c6c0575dd40efc8dd602549cc97239"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\partner\\FranchiseeManagerSetting.jsx": {
+    "mtime": 1777704646.0,
+    "hash": "cc47a337ad0c66c54724a72cc389e7f8"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\partner\\OnboardingGoals.jsx": {
+    "mtime": 1777700466.0,
+    "hash": "e80c57431fed0bea471f5ddcc870ff22"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\partner\\Plans.jsx": {
+    "mtime": 1777897859.0,
+    "hash": "e0c42c4d7004af6c73ecc8fdeea29fdb"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\partner\\PointsRewards.jsx": {
+    "mtime": 1777698782.0,
+    "hash": "7ef18e00338e52290ba2bd09e2a354d1"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\partner\\ProfessionType.jsx": {
+    "mtime": 1777700178.0,
+    "hash": "de42ace41603d2785f2780e65b6829e3"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\product\\AddParameterModal.jsx": {
+    "mtime": 1773305975.0,
+    "hash": "2689fe43ca07b0b305db7b4fd0ae534b"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\product\\AddProduct.jsx": {
+    "mtime": 1773218312.0,
+    "hash": "0eab019d371b06294f426995b8b01d2d"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\product\\AddProductModal.jsx": {
+    "mtime": 1773303463.0,
+    "hash": "b8ef64bf2e323645ab28c78efba4d3c5"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\product\\AddProjectCategory.jsx": {
+    "mtime": 1773219814.0,
+    "hash": "111391d0e4720ded5c44475ac991f2af"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\product\\AddProjectType.jsx": {
+    "mtime": 1773215592.0,
+    "hash": "3814d05e39fadca9f8580d33f9c3f577"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\product\\AddUnitManagement.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "6cb159f995d7faa78bbeee468d409ca4"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\product\\EditSkuModal.jsx": {
+    "mtime": 1773306797.0,
+    "hash": "6c1554a12dfb27ae7e91fc37b81fa1e1"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\product\\GenerateSkuModal.jsx": {
+    "mtime": 1773311100.0,
+    "hash": "652de3d01d914fc783f25190709a0284"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\product\\PriceMaster.jsx": {
+    "mtime": 1773308083.0,
+    "hash": "45e2b406658eddcafc4216458e63a3f5"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\product\\Sku.jsx": {
+    "mtime": 1773231560.0,
+    "hash": "f06e0713db287a2476bd9c27c5ac1b0c"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\product\\SkuImageModal.jsx": {
+    "mtime": 1773293686.0,
+    "hash": "5be80cc77119bfc90f110bf25b3b4d4d"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\product\\SkuPdfReportModal.jsx": {
+    "mtime": 1773232806.0,
+    "hash": "8a9698a1c9e98526e52788c9a0ed98ac"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\product\\ViewSkuModal.jsx": {
+    "mtime": 1773307004.0,
+    "hash": "4eb763a7fb7cc380d3c77a4c234ec4fe"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\project\\ConfigurationSetting.jsx": {
+    "mtime": 1774432513.0,
+    "hash": "f600bb5dbe2e6b63866f32706a1d3a7e"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\project\\DocumentationSetting.jsx": {
+    "mtime": 1774435533.0,
+    "hash": "4ebafa1af489a709fcdfbfbdbc088f09"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\project\\JourneyStageSetting.jsx": {
+    "mtime": 1774430153.0,
+    "hash": "8e748f469c2ceb58011bc65f1216deb8"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\project\\OverdueSetting.jsx": {
+    "mtime": 1774432347.0,
+    "hash": "691f029827d896c4178fd9cab9b26633"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\project\\PlaceholderNameSetting.jsx": {
+    "mtime": 1774354496.0,
+    "hash": "1c267858515e2c11fbdfedadc350f1fe"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\quote\\BuildingSetting.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "294bebf581963345ca5e864ab1e009b1"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\quote\\DiscomMaster.jsx": {
+    "mtime": 1776100034.0,
+    "hash": "6ba63f0263bcc9b2a876be58e17e276b"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\quote\\QuoteSetting.jsx": {
+    "mtime": 1776494149.0,
+    "hash": "17cf211a98d659dfe36aa2e471734e89"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\quote\\StructureSetting.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "0e6493868b3879aea9cc8556032fc804"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\quote\\SurveyBomSetting.jsx": {
+    "mtime": 1776092421.0,
+    "hash": "c4e5e2cc4e01a56daf470c3012003faa"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\quote\\TerraceSetting.jsx": {
+    "mtime": 1776091729.0,
+    "hash": "0e56b703703d708d4d617451d7591a08"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\sales\\Offers.jsx": {
+    "mtime": 1775744612.0,
+    "hash": "9ea238ff0e3e36983652c08e9170ebe7"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\sales\\SetPrice.jsx": {
+    "mtime": 1775818532.0,
+    "hash": "b2ae148bf5feb3bf4ea1a313134a3b7e"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\sales\\SetPriceAmc.jsx": {
+    "mtime": 1775730175.0,
+    "hash": "d1e6df1de7ceeb0eb857e7b7fa7b95ee"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\sales\\SolarPanelBundleSetting.jsx": {
+    "mtime": 1775558568.0,
+    "hash": "c7ae158852f4de68bfc65f6e4b72c7e5"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\vendor\\InstallerVendors.jsx": {
+    "mtime": 1777639926.0,
+    "hash": "e8d8d2f0377a092c480e2da3a819086e"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\vendor\\SupplierType.jsx": {
+    "mtime": 1774612820.0,
+    "hash": "2d4d1ac88f8c8569f70618a32c179b95"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\admin\\pages\\settings\\vendor\\SupplierVendors.jsx": {
+    "mtime": 1777639926.0,
+    "hash": "f417551c81487eeda61053fd89eb7899"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\api\\api.js": {
+    "mtime": 1776530655.0,
+    "hash": "7aab1894d715f113165bf2edc5f0012c"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\api\\axios.js": {
+    "mtime": 1772904038.0,
+    "hash": "99ad78947478537c037188dccdce6bcc"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\api\\campaigns.js": {
+    "mtime": 1775460866.0,
+    "hash": "5ac295bd59dd56e4083c8491afe40e27"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\api\\candidateApi.js": {
+    "mtime": 1772881947.0,
+    "hash": "db493168e153b3fc6166002c259fc998"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\api\\masterApi.js": {
+    "mtime": 1773293661.0,
+    "hash": "0c0412b9a9893ce8453673e48e140ac7"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\api\\productApi.js": {
+    "mtime": 1773297012.0,
+    "hash": "299e1404b27f9afb29cb9fec70165c85"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\candidate\\layouts\\CandidateLayout.jsx": {
+    "mtime": 1772879230.0,
+    "hash": "0fe0a2b2e0a12b0f57a1dd202a66f4d7"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\candidate\\pages\\CompleteApplication.jsx": {
+    "mtime": 1772998212.0,
+    "hash": "92c9503d72d945f649c182bb8ee4cd4e"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\candidate\\pages\\Dashboard.jsx": {
+    "mtime": 1772998227.0,
+    "hash": "6371c17cf2c834cf31385c3192450c04"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\candidate\\pages\\Login.jsx": {
+    "mtime": 1772904916.0,
+    "hash": "a651c91767ffe40c15e3c8c15d68fd8d"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\candidate\\pages\\Test.jsx": {
+    "mtime": 1772881965.0,
+    "hash": "b178a5e33066c31223532de69734e52e"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\components\\GlobalLoader.jsx": {
+    "mtime": 1772904005.0,
+    "hash": "5789e0435a3e9dc761fc6131ef3696b4"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\dealer\\components\\DealerHeader.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "1c368aa09eb8efce865e1190b87d4acb"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\dealer\\components\\DealerSidebar.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "d7f6e22d451e5f50d940a54f73524b2b"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\dealer\\layouts\\DealerLayout.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "a60849e1af1b88b18c8b56aabc9a15a7"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\dealer\\pages\\dashboard\\Dashboard.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "82047f739c3bb3c623ec0c3b6addcae1"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\dealer\\pages\\loan\\Loan.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "c8c97b17ee4f63bcf53dce9fd85a2c9e"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\dealer\\pages\\projectManagement\\DealerCommercialProject.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "724465e5ecd6374c64605e47ea7dcd39"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\dealer\\pages\\projectManagement\\DealerResidentialProject.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "0ceb4a71064ef426eade3ff73a286224"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\dealer\\pages\\projectManagement\\Manage.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "d20bd1f7dc3598753eef2f4100eed2c3"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\dealer\\pages\\projectManagement\\Track.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "cb8ce8c44187ab9d9f14805ca007f36a"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\dealer\\pages\\projectSignup\\Lead.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "a23223b5c388a5750091ca4073de0182"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\dealer\\pages\\projectSignup\\ProjectQuote.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "91fba215b5755091c2d8a5bc6d959158"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\dealer\\pages\\projectSignup\\ProjectSignup.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "bc4014ddd98a5a56f44e5bc574d303ff"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\dealer\\pages\\projectSignup\\SurveyBOM.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "eb7d62ab334573aa5b59d1e9e429c111"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\dealer\\pages\\reports\\Reports.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "9838b4ab0ed5bb04596636fbd56ded2f"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\dealer\\pages\\solarKit\\SolarKit.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "4a0320c39fbe22adf90f6885b0a89c00"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\dealer\\pages\\tickets\\RaiseTicket.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "66dab0b810f7133137af50259dccd695"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\dealer\\pages\\tickets\\TicketStatus.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "d186a0753a56dcde82240208aff81bd4"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\dealer\\pages\\track\\MyCommission.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "d0408540a4773f523f01a72f5ea9e843"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\dealer\\pages\\track\\ProjectProgress.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "3318d36ecc1c9a7e883c206c8d4b2d90"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\dealer\\services\\projectApi.js": {
+    "mtime": 1772798749.0,
+    "hash": "970dde98d0d7dac161a88528de4ee01a"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\dealerManager\\components\\DealerManagerHeader.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "d7916cd31cf244ffce53832602ae1cf1"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\dealerManager\\components\\DealerManagerSidebar.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "388ed4377f81a44441aa9373ece1fa26"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\dealerManager\\layouts\\DealerManagerLayout.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "4d3bed8be7f8ab383b0b81f1ef40071c"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\dealerManager\\pages\\dashboard\\DealerManagerDashboard.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "fd1230226f519fe6a37f597a19aacad7"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\dealerManager\\pages\\leads\\DealerManagerMyLeads.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "18ecfe95e4b82eef1db3691566582440"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\dealerManager\\pages\\leads\\DealerManagerOnboardingCompanyLead.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "068bf65aeb6be23c8efd4561d8a8c384"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\dealerManager\\pages\\leads\\Leads.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "147c6c8180495a9282fa0840aec673c5"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\dealerManager\\pages\\leads\\SubLeads.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "3c38711f1eae5cd55cd31391a7bc20ee"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\dealerManager\\pages\\myTask\\AppDemo.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "fe05d914c90cc62a5345af50d5d747a6"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\dealerManager\\pages\\myTask\\DealerManagerDealerInactive.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "33a6721442e015155826c46c357d96b3"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\dealerManager\\pages\\myTask\\DealerManagerPerformerName.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "f52aab56874bb31a08b9836f16d2b5c5"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\dealerManager\\pages\\myTask\\DealerPerformance.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "a54ec49ab677092940fc7b18c3876c12"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\dealerManager\\pages\\myTask\\DealerPerformanceList.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "13958a5dee0174a80b18f9bbf3ba2e59"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\dealerManager\\pages\\myTask\\dealerOnboarding\\DealerManagerOrientationVideo.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "27aae86b6e65797ecdd4200052b2be9b"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\dealerManager\\pages\\myTask\\dealerOnboarding\\DealerOrientation.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "3fb9b7438b0e6cc620fc94340f533eae"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\dealerManager\\pages\\myTask\\dealerOnboarding\\DealerSignup.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "0d87b4693336d552f6dd29ea456e0a7c"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\dealerManager\\pages\\myTask\\dealerOnboarding\\LocationSelector.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "a89722a91340db8addc16bef28ad5184"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\dealerManager\\pages\\myTask\\projectManagement\\CompletedProjects.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "58695626bcdb65ff191b476652c266b6"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\dealerManager\\pages\\myTask\\projectManagement\\ProjectInProgress.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "6aedded2d50759d73ee53a10e151113a"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\dealerManager\\pages\\onboardingGoals\\OnboardingGoals.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "5392a9256ec43d9c808fc1e5785be083"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\dealerManager\\pages\\report\\Report.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "17d9fa0bcf010649cea8b682f3fb1077"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\dealerManager\\pages\\tickets\\Dispute.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "be26164d0fae6dd1c00bea84f4ee3dfb"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\dealerManager\\pages\\tickets\\Service.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "3c6e885c0e6e623bd6d326bb1fdcf5ea"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\dealerManager\\services\\dashboardService.js": {
+    "mtime": 1772798749.0,
+    "hash": "667e041acb106720a1897fd3aa151e3a"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\dealerManager\\services\\leadService.js": {
+    "mtime": 1772798749.0,
+    "hash": "f9ef72c514029d704071cc1125fad273"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\employee\\pages\\EmployeeLogin.jsx": {
+    "mtime": 1772901524.0,
+    "hash": "6717d27f9daeb9d63ba0f47f8a0ab944"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\employee\\pages\\OnboardingTraining.jsx": {
+    "mtime": 1772896121.0,
+    "hash": "228d2f821351fa60da45419b024e2776"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\franchisee\\components\\FranchiseeHeader.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "44478a2e248675ee34d15635ac226947"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\franchisee\\components\\FranchiseeSidebar.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "ff0fad8166caac5b0686f4d5817e96c2"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\franchisee\\layouts\\FranchiseeLayout.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "ac3e2186a16f4bd922c27da615f1c84a"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\franchisee\\pages\\Account\\TrackPayments.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "1ce5e3bfe37414d4cd4657242c5f163f"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\franchisee\\pages\\dashboard\\FranchiseDashboard.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "42bf438a562654525ca551df9f059375"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\franchisee\\pages\\dashboard\\LeadAssignDashboard.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "7f4ee9b254ee943b679bd270d4fe9fdf"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\franchisee\\pages\\DealerManager\\CreateDealerManager.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "11ce88cc41f7fb36206b7f28dd53f5e1"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\franchisee\\pages\\DealerManager\\DealerManager.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "c1e6f713294a4dda034579146d7ce75c"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\franchisee\\pages\\DistrictManager\\CreateDistrictManager.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "a46a4819ea9ffa4dc33bc0070682d0fc"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\franchisee\\pages\\DistrictManager\\DistrictManager.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "327e53d9e7193c04ec350c40fc0800fe"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\franchisee\\pages\\LeadPartner\\CreateLeadPartner.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "07c577d294ef790a177b5cb3088d850b"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\franchisee\\pages\\LeadPartner\\CreateLeadPartnerForm.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "c16097de09101a0f85f92f95e463dbc3"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\franchisee\\pages\\LeadPartner\\LeadManagement.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "0269cd63ba227cb0801435dca8c8dd33"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\franchisee\\pages\\MyTeam\\AddTeamMember.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "37600ed4480ce784e1dd3ac9e1e8be73"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\franchisee\\pages\\MyTeam\\MyTeam.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "c20e32b68125b6c4a447666d254dbafa"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\franchisee\\pages\\projectManagement\\FranchiseCommercial.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "3fb29cc7a4b1ebd6d628ae99f23129af"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\franchisee\\pages\\projectManagement\\FranchiseResedential.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "d827f8989bb2d713dd90684984a01c56"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\franchisee\\pages\\projectManagement\\InProgress.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "b8e7a4593814a5d654ea9306579ae0b7"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\franchisee\\pages\\projectManagement\\Install.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "7595b4612448865b505674d7ff13d584"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\franchisee\\pages\\projectManagement\\Management.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "664cda63f0e19f186b853a1c5389d4d3"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\franchisee\\pages\\projectManagement\\Payment.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "4dbefd73e0ebb2cfcc59609761900b4f"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\franchisee\\pages\\projectManagement\\SelectInstaller.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "e9a1a6ecb2d6fa48cd2b66dfebe679eb"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\franchisee\\pages\\projectManagement\\Service.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "0d405e83f77f92244002033cb3abeeba"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\franchisee\\pages\\projectManagement\\TrackService.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "2c50b631f3629c1fa3d6ebf71506e677"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\franchisee\\pages\\projectSignup\\CreateQuotation.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "e317a5770c5bbd6ff483e9d6dbcae770"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\franchisee\\pages\\projectSignup\\Lead.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "403e186de49f8de0a405c46a879ece3f"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\franchisee\\pages\\projectSignup\\Loan.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "c31ab4aa841b9028512c5754820e1b8b"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\franchisee\\pages\\projectSignup\\ProjectSignup.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "daffde025f53adfaa8031694be45fa92"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\franchisee\\pages\\Settings\\Settings.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "5d55996228245eba1e1ca14d70fd998f"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\franchisee\\pages\\Solarkits\\BulkOrder.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "b24306902204ec0e90325255253845a8"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\franchisee\\pages\\Solarkits\\Solarkits.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "16e0e7231c0aaf4be8ea3b1a874d7445"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\franchisee\\pages\\SurveyBom\\SurveyBom.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "d1ad8936b31dae0382583cf444898137"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\franchiseeManager\\components\\FranchiseeManagerHeader.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "0d8510c3479e99b40cae72ec72fa63c6"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\franchiseeManager\\components\\FranchiseeManagerSidebar.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "603024cfcc109b7b088e77e7d9a2ec69"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\franchiseeManager\\layouts\\FranchiseeManagerLayout.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "5a58c304a52ab89f7cacdd0bc5c6807a"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\franchiseeManager\\pages\\dashboard\\FranchiseeManagerDashboard.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "e8fdb521fa8ca0dc7d59cdad13d35d9e"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\franchiseeManager\\pages\\dealerManagement\\AssignToFranchisee.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "e81191117ccb870c71dfe246282952af"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\franchiseeManager\\pages\\dealerManagement\\ReassignToCompany.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "caa776999a13c5b7ad9963b647f03bd8"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\franchiseeManager\\pages\\dealerManagement\\TrackDealer.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "f931143c36955f29fbcbffd6eb3d16dd"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\franchiseeManager\\pages\\franchiseSetting\\ComboKitCustomization.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "afbee52be85d03db8f3ad76f8a38b8e2"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\franchiseeManager\\pages\\franchiseSetting\\Offers.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "4c7e6db29b3a70541c95ffb18486ac80"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\franchiseeManager\\pages\\franchiseSetting\\TrackCashback.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "5d65172d0a3311f02a20228ff8cd034d"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\franchiseeManager\\pages\\leadManagement\\LeadManagement.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "889a896aac414a0ef1adb4618c8fdaf5"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\franchiseeManager\\pages\\leads\\CompanyLead.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "fbf4d9cbc4374a28cab3010a939689de"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\franchiseeManager\\pages\\leads\\Leads.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "ee18b90898a0a9393ef0da4778e1320b"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\franchiseeManager\\pages\\leads\\ManagerTable.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "038de729a4ffe124eb5ca516212cf5d5"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\franchiseeManager\\pages\\leads\\QualifyTable.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "4a395eb642fdf92fcaaa0fa008bec321"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\franchiseeManager\\pages\\myTask\\ActiveList.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "8c87a91eb385275c0c53609dab988a0e"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\franchiseeManager\\pages\\myTask\\AppDemo.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "dd456dd7ed3e1d4661a8b4bf2bfeac1c"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\franchiseeManager\\pages\\myTask\\FranchiseePerformance.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "16252889226e07d5aed3e105d2c7432e"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\franchiseeManager\\pages\\myTask\\InactiveList.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "03e593f4025b28a5d9e2700ab2021377"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\franchiseeManager\\pages\\myTask\\PerformerName.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "466055ad7d6e18cafbdfa90943cea6bd"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\franchiseeManager\\pages\\myTask\\franchiseeOnboarding\\FranchiseeOrientation.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "55a9bc1d55c533a8aca183dce976fb49"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\franchiseeManager\\pages\\myTask\\franchiseeOnboarding\\FranchiseeSignup.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "386230343b2102d1f12cbfe314aeffe4"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\franchiseeManager\\pages\\myTask\\franchiseeOnboarding\\KYCProcess.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "106bdbb4844fabb9a9730504ec5c41e5"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\franchiseeManager\\pages\\myTask\\franchiseeOnboarding\\LocationSelector.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "a89722a91340db8addc16bef28ad5184"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\franchiseeManager\\pages\\myTask\\franchiseeOnboarding\\OrientationVideo.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "6b56e52d5cb981fc720afa21271dafb8"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\franchiseeManager\\pages\\myTask\\projectManagement\\ProjectInProgress.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "63ad9691304175df568af149b5ad6cbd"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\franchiseeManager\\pages\\onboardingGoals\\OnboardingGoals.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "9ce0d7c31698e031184cb6221c9f3171"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\franchiseeManager\\pages\\report\\Report.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "7e3361048dfbd5a96b7339205388af97"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\franchiseeManager\\pages\\resources\\FindResources.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "250a19e9f5235cef0919c450bff6ed28"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\franchiseeManager\\pages\\tickets\\Dispute.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "a5c929dc660f136a450541e29b42e270"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\franchiseeManager\\pages\\tickets\\Service.jsx": {
+    "mtime": 1772798749.0,
+    "hash": "fd1395c29a23ae3883e9a76f958a6845"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\hooks\\useLocations.js": {
+    "mtime": 1776083240.0,
+    "hash": "9f083e6ec5d43adf1245ff450f04bb1e"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\pages\\Login.jsx": {
+    "mtime": 1772900818.0,
+    "hash": "d109ee8347dd7dde8c68d34a1f796595"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\services\\approvals\\approvalsApi.js": {
+    "mtime": 1772798749.0,
+    "hash": "4b3e54ad81373cd9b06293d1b802609b"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\services\\brand\\brandApi.js": {
+    "mtime": 1776430220.0,
+    "hash": "1313acd16fd3288ed0605104cffe762b"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\services\\combokit\\combokitApi.js": {
+    "mtime": 1775719419.0,
+    "hash": "727d9a969d13736905e8cb8835a78b97"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\services\\core\\locationApi.js": {
+    "mtime": 1774602376.0,
+    "hash": "c9594cc4aacde1a8d04ac119b4ad7d77"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\services\\core\\masterApi.js": {
+    "mtime": 1774602972.0,
+    "hash": "2a55dabf2028a310e030f18aa2ea23ac"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\services\\dashboard\\dashboardApi.js": {
+    "mtime": 1772798749.0,
+    "hash": "163de7178ffdba8ae74c6c56da2b0ca5"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\services\\dashboard\\vendorsApi.js": {
+    "mtime": 1772798749.0,
+    "hash": "f171efff6db546426be206133aa13ab3"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\services\\dealer\\dealerApi.js": {
+    "mtime": 1772798749.0,
+    "hash": "05e3b06cb6c3aae8d9594689d47ab026"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\services\\dealerManager\\dealerManagerApi.js": {
+    "mtime": 1772798749.0,
+    "hash": "b19230ce13b1c2c827ddcf10dca485a1"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\services\\delivery\\deliveryApi.js": {
+    "mtime": 1774081899.0,
+    "hash": "5f89fbf7fc94b8df29dc4e8a60eac46b"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\services\\employee\\trainingApi.js": {
+    "mtime": 1772893661.0,
+    "hash": "681960acb8f7bc841c99075722234f6d"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\services\\franchisee\\franchiseeApi.js": {
+    "mtime": 1772798749.0,
+    "hash": "571409fafc23aaecb2fad05db4430b46"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\services\\hr\\departmentModuleApi.js": {
+    "mtime": 1773123840.0,
+    "hash": "ea56548386014f906556a3df256d5aee"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\services\\hr\\hrApi.js": {
+    "mtime": 1773126574.0,
+    "hash": "19bfc7b936b93f4907bc9d29a9ebe9cc"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\services\\hrms\\hrmsApi.js": {
+    "mtime": 1772967921.0,
+    "hash": "d309bcae1ee24fe1563754c1c92712d2"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\services\\hrms\\leaveApi.js": {
+    "mtime": 1772996876.0,
+    "hash": "8e8eb68b54eb138d1e8850fc7988d268"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\services\\installer\\installerApi.js": {
+    "mtime": 1774868000.0,
+    "hash": "92ec069629bbb15be14c4ae5acffdfe9"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\services\\inventory\\inventoryApi.js": {
+    "mtime": 1773739924.0,
+    "hash": "a62ec70bf60570b615739853f19d829e"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\services\\loan\\loanApi.js": {
+    "mtime": 1772798749.0,
+    "hash": "89250aac89b3e9eb2034d07da63ff68d"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\services\\organization\\organizationApi.js": {
+    "mtime": 1772798749.0,
+    "hash": "eb68a0afd274c43a43799d25a0860c7a"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\services\\partner\\partnerApi.js": {
+    "mtime": 1777700164.0,
+    "hash": "0c46e267a3fce40ef8c02ae8f56d4eec"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\services\\performance\\performanceApi.js": {
+    "mtime": 1772798749.0,
+    "hash": "07c92a9511af774828c13bcfcc39e507"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\services\\procurement\\procurementApi.js": {
+    "mtime": 1772798749.0,
+    "hash": "41e903756e47aa1eb321207baff6ca03"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\services\\project\\projectApi.js": {
+    "mtime": 1774254605.0,
+    "hash": "9da3b825f1e1c2a9c0863e82b8e30646"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\services\\project\\projectService.js": {
+    "mtime": 1772798749.0,
+    "hash": "79608a3b9373f6983d4fd4d7156dbe07"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\services\\quote\\quoteApi.js": {
+    "mtime": 1776098730.0,
+    "hash": "57276e8461285738963be5ccab0d7871"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\services\\settings\\orderProcurementSettingApi.js": {
+    "mtime": 1774027325.0,
+    "hash": "ff25556bde13998189f1f8017fdd355c"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\services\\settings\\salesSettingsApi.js": {
+    "mtime": 1776098345.0,
+    "hash": "595592ec70efe1df53df0412a1523405"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\services\\settings\\settingsApi.js": {
+    "mtime": 1777705352.0,
+    "hash": "123ef204b48a07dc9eddbe87cb82221a"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\services\\tickets\\disputeApi.js": {
+    "mtime": 1772798749.0,
+    "hash": "ec96de312a987974534f16844907c240"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\services\\tickets\\ticketApi.js": {
+    "mtime": 1772798749.0,
+    "hash": "7ec82d20effdd8dcb4de84087d668515"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\services\\vendor\\vendorApi.js": {
+    "mtime": 1773921729.0,
+    "hash": "788b7ac94123aa43afce633e630c7365"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\store\\authStore.js": {
+    "mtime": 1772798749.0,
+    "hash": "57df3116e21e41d4bb4b50e1a817398f"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\store\\candidateStore.js": {
+    "mtime": 1772879008.0,
+    "hash": "0a3cc1816ba94bc0c40a62b09cb6f9c9"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\store\\loaderStore.js": {
+    "mtime": 1772904003.0,
+    "hash": "5c8cc87fc209d843838bc3575b2b78c8"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\src\\store\\masterStore.js": {
+    "mtime": 1772798749.0,
+    "hash": "5034c279688e5081cecf5d5ce40995ce"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\check_plans.js": {
+    "mtime": 1775558589.0,
+    "hash": "718eef85b47925ee34125350c668e9cd"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\index.js": {
+    "mtime": 1777021470.0,
+    "hash": "071dda10c12fd18404c7e2d6e81bc99b"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\update_plans.js": {
+    "mtime": 1775558589.0,
+    "hash": "4bf91fcf3c3f3e54f09e7670b92b90f6"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\api\\index.js": {
+    "mtime": 1772798765.0,
+    "hash": "8352893cbcb3f1fc2c03fad1cae74fa0"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\config\\database.js": {
+    "mtime": 1774029544.0,
+    "hash": "5b27a423e36ac5ef2a9f4155cf8835e4"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\controllers\\admin\\adminConfigController.js": {
+    "mtime": 1772998073.0,
+    "hash": "61da9546e9099b906f5d818ece7c057d"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\controllers\\admin\\adminStatsController.js": {
+    "mtime": 1772998073.0,
+    "hash": "a5a498432e7a62e8215147b84d7e0369"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\controllers\\approvals\\approvalOverdueController.js": {
+    "mtime": 1772998073.0,
+    "hash": "3215b6800e075324000e1e94d5bbfe48"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\controllers\\approvals\\approvalsController.js": {
+    "mtime": 1774605751.0,
+    "hash": "f20e496f8c78dd196486cb2c55866b21"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\controllers\\approvals\\overdueStatusController.js": {
+    "mtime": 1776677280.0,
+    "hash": "99bc8f798884ecdd1bd07a02bf6aa3e1"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\controllers\\approvals\\overdueTaskController.js": {
+    "mtime": 1776670290.0,
+    "hash": "339cc43b307249ba621775b23fb87ec8"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\controllers\\auth\\authController.js": {
+    "mtime": 1772998073.0,
+    "hash": "ad3d3b9947e5e676122199baa345aad2"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\controllers\\core\\locationController.js": {
+    "mtime": 1776242054.0,
+    "hash": "da9a82f8295cf1dcdbb086f387e9da09"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\controllers\\core\\locationService.js": {
+    "mtime": 1776245102.0,
+    "hash": "39515b1ebac0aa9b4d3c3828a08172ce"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\controllers\\core\\masterController.js": {
+    "mtime": 1772998073.0,
+    "hash": "81ef1d05185634bf19d56cd5a9130332"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\controllers\\dashboard\\dashboardController.js": {
+    "mtime": 1776532393.0,
+    "hash": "659b5c8e697b1e3a3cf81591ac109770"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\controllers\\dealer\\commissionController.js": {
+    "mtime": 1772998073.0,
+    "hash": "bc4924f9b538d17fd28b4a952e7c5b4c"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\controllers\\dealer\\dealerSettingsController.js": {
+    "mtime": 1772998073.0,
+    "hash": "313e834c9dc48990c54d78a43ece0a0d"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\controllers\\dealerManager\\dealerManagerController.js": {
+    "mtime": 1772998073.0,
+    "hash": "02cf532c172fad691ccc197a8d6d10a8"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\controllers\\finance\\loanApplicationController.js": {
+    "mtime": 1774602376.0,
+    "hash": "2e2bb54fc8b7dce8d1dc776976c0f711"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\controllers\\finance\\loanController.js": {
+    "mtime": 1777026711.0,
+    "hash": "91b63fbc13d039be8f75c3350cd1088e"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\controllers\\finance\\loanProviderController.js": {
+    "mtime": 1777021428.0,
+    "hash": "81f4fa87478c6f53dd753e5ad5de067f"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\controllers\\franchisee\\franchiseeGoalController.js": {
+    "mtime": 1772998073.0,
+    "hash": "4934a792eba96dc8fb0af38da1660260"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\controllers\\franchisee\\franchiseeOrderController.js": {
+    "mtime": 1772998073.0,
+    "hash": "fc9eb70db7ca1a5077620057b8a72043"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\controllers\\franchisee\\franchiseePlanController.js": {
+    "mtime": 1772998073.0,
+    "hash": "931fd5e3d330cfebee941515c48655c5"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\controllers\\franchisee\\franchiseeProfessionController.js": {
+    "mtime": 1772998073.0,
+    "hash": "74b40bb048da2074dfef6f9fe59eb32e"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\controllers\\franchisee\\franchiseeRewardController.js": {
+    "mtime": 1772998073.0,
+    "hash": "8669034bd8c1455206ab718cbbf4a3eb"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\controllers\\franchiseeManager\\franchiseeManagerSettingController.js": {
+    "mtime": 1777700683.0,
+    "hash": "eb302ed204ab6cb33ae26632ac7fcd7a"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\controllers\\hr\\candidatePortalController.js": {
+    "mtime": 1772998073.0,
+    "hash": "2e9c578a3d088449f1195861c6ebe306"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\controllers\\hr\\departmentModuleController.js": {
+    "mtime": 1773123819.0,
+    "hash": "55119467eac14ab948acb9bbf613ef79"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\controllers\\hr\\employeeTrainingController.js": {
+    "mtime": 1772998073.0,
+    "hash": "8cd4da7c0148cb990a07b87257f25caa"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\controllers\\hr\\hrController.js": {
+    "mtime": 1773126869.0,
+    "hash": "d6c5e59df5a09896eaf52fac749df9ee"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\controllers\\hr\\leaveApprovalController.js": {
+    "mtime": 1772998474.0,
+    "hash": "fae09db357c59a728b42f293e34fea4b"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\controllers\\hr\\organizationController.js": {
+    "mtime": 1776670998.0,
+    "hash": "990419e1f1e887912ace91724c262d5b"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\controllers\\inventory\\brandController.js": {
+    "mtime": 1776430230.0,
+    "hash": "58649cdcebc4974f6974d94b4886c7ac"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\controllers\\inventory\\categoryController.js": {
+    "mtime": 1772998073.0,
+    "hash": "1d29bf4373b6a0889ab42de67b9012f0"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\controllers\\inventory\\combokitController.js": {
+    "mtime": 1775727214.0,
+    "hash": "22265321d67e0d776946b41526bcb276"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\controllers\\inventory\\inventoryController.js": {
+    "mtime": 1774588728.0,
+    "hash": "2a0cc51a41f01eba9d44b268da571119"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\controllers\\inventory\\priceMasterController.js": {
+    "mtime": 1772998073.0,
+    "hash": "4517f1c2ac242a52f45ab30af5c1889d"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\controllers\\inventory\\productController.js": {
+    "mtime": 1773304725.0,
+    "hash": "0aee1391c1a06bf91fd0b828b39fc1f8"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\controllers\\inventory\\productPriceController.js": {
+    "mtime": 1773296581.0,
+    "hash": "8a70c5e208a046ff28763711b31d0fb9"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\controllers\\inventory\\skuController.js": {
+    "mtime": 1773905769.0,
+    "hash": "35077867807ae590943d6bef1f979148"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\controllers\\inventory\\subCategoryController.js": {
+    "mtime": 1772998073.0,
+    "hash": "b25fb4de5bb9cc1af99e6914cb5db36d"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\controllers\\inventory\\unitController.js": {
+    "mtime": 1772998073.0,
+    "hash": "8fd8e06a5bc186519925715db1cd9436"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\controllers\\marketing\\campaignController.js": {
+    "mtime": 1775471833.0,
+    "hash": "e78e5d2ea3c2054c14596c6cdb82c1a4"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\controllers\\marketing\\leadController.js": {
+    "mtime": 1772998073.0,
+    "hash": "fce757105b13e5373efd060552b7b8f3"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\controllers\\marketing\\surveyController.js": {
+    "mtime": 1772998073.0,
+    "hash": "4e6b05a921d169be8eb6178532540407"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\controllers\\orders\\deliveryController.js": {
+    "mtime": 1772998073.0,
+    "hash": "bc35da8948a48706d694238d562f0b2d"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\controllers\\orders\\orderController.js": {
+    "mtime": 1772998073.0,
+    "hash": "39851281c01c2e17ac2be7a2bcb82f7c"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\controllers\\orders\\procurementController.js": {
+    "mtime": 1774590186.0,
+    "hash": "f7f7d0bfd8d2dcf223db6cb2fb25d788"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\controllers\\partner\\partnerSettingsController.js": {
+    "mtime": 1777698138.0,
+    "hash": "dda1c069c71afedd8ec47bd9b06cc2fa"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\controllers\\performance\\performanceController.js": {
+    "mtime": 1776670899.0,
+    "hash": "8e61f8a8f0facaf9dfadf586bcd6ab95"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\controllers\\performance\\statisticsController.js": {
+    "mtime": 1772998073.0,
+    "hash": "0d2e07278e0d964880702806a46d31a2"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\controllers\\projects\\installationController.js": {
+    "mtime": 1772998073.0,
+    "hash": "b95b242742347c97a7f9052ca77f872b"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\controllers\\projects\\projectCategoryMappingController.js": {
+    "mtime": 1774021092.0,
+    "hash": "66cdbd71e8351ff519a818e4eb4103b1"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\controllers\\projects\\projectController.js": {
+    "mtime": 1776532659.0,
+    "hash": "8d1fa2a03610f03d77909cc4d66dd04a"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\controllers\\projects\\projectTypeController.js": {
+    "mtime": 1772998074.0,
+    "hash": "7004a988b87ce77253064e7df9ce985a"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\controllers\\projects\\solarKitController.js": {
+    "mtime": 1772998074.0,
+    "hash": "d7aba99b8063dd9ca5cc420e9d61b76f"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\controllers\\projects\\subProjectTypeController.js": {
+    "mtime": 1772998074.0,
+    "hash": "cadde50421360cc0193456da8d6fa29e"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\controllers\\settings\\buyLeadSettingController.js": {
+    "mtime": 1777705319.0,
+    "hash": "2a6dbfa5d4dd25265195189203302d88"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\controllers\\settings\\checklistController.js": {
+    "mtime": 1773907522.0,
+    "hash": "ca3f1412a661fa7bff93d474b3f7f160"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\controllers\\settings\\deliverySettingsController.js": {
+    "mtime": 1774082471.0,
+    "hash": "ecf3d5691edfcd5ef839c212a1f5cc21"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\controllers\\settings\\hrmsSettingsController.js": {
+    "mtime": 1773140377.0,
+    "hash": "91429da4d36adf796ad18b6fd6ee8311"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\controllers\\settings\\orderProcurementSettingController.js": {
+    "mtime": 1774418490.0,
+    "hash": "298e70a5cf16609bc0eb685ea4b1884d"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\controllers\\settings\\projectSettingsController.js": {
+    "mtime": 1774262593.0,
+    "hash": "366c691551396fd4a4e75d95ce220a0a"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\controllers\\settings\\quoteSettingsController.js": {
+    "mtime": 1776493681.0,
+    "hash": "06744ccb0e28096a53708df10e5ef7a1"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\controllers\\settings\\salesSettingsController.js": {
+    "mtime": 1776242243.0,
+    "hash": "ef79e0530405dc44c072e318587e86cc"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\controllers\\tickets\\disputeController.js": {
+    "mtime": 1772998074.0,
+    "hash": "7ba63cb07d93d988ec7761e2f3e81aa2"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\controllers\\tickets\\ticketController.js": {
+    "mtime": 1772998074.0,
+    "hash": "bed454fdbbafe2588cdb891a54a21435"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\controllers\\users\\userController.js": {
+    "mtime": 1772998074.0,
+    "hash": "205ab0e71a3c4c959122bd903f069051"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\controllers\\vendors\\installerController.js": {
+    "mtime": 1774867975.0,
+    "hash": "ea51c0ca3fff5e0e2af8f4a1ae8354bf"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\controllers\\vendors\\installerVendorPlanController.js": {
+    "mtime": 1774676546.0,
+    "hash": "e7c4c1b3741c6aee6b80c6b97f180ece"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\controllers\\vendors\\supplierVendorPlanController.js": {
+    "mtime": 1774609222.0,
+    "hash": "95b361ff170ffc8cbf17440c5bbb2af5"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\controllers\\vendors\\vendorController.js": {
+    "mtime": 1773921745.0,
+    "hash": "a37ca5e3436d109fdaf34d2401b356d3"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\middleware\\auth.js": {
+    "mtime": 1772798765.0,
+    "hash": "637182fc0ad1ffebb4e01d5f8af580ae"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\admin\\AdminConfig.js": {
+    "mtime": 1772798765.0,
+    "hash": "c435d66033b1a8956df1308348a74ed1"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\admin\\AppDemo.js": {
+    "mtime": 1772798765.0,
+    "hash": "9008f7ac16c0ffbb94fa529df9b3678e"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\admin\\Statistics.js": {
+    "mtime": 1772798765.0,
+    "hash": "72d1dde1cd004a07153630db74024752"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\approvals\\Approval.js": {
+    "mtime": 1772798765.0,
+    "hash": "b30c80c35f0ddea8caade7caa484c9f1"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\approvals\\ApprovalOverdueRule.js": {
+    "mtime": 1772798765.0,
+    "hash": "2edb72c5c046ed5d0b9901c81b48fb85"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\approvals\\OverdueStatusSetting.js": {
+    "mtime": 1776676948.0,
+    "hash": "bf0f716ae82e5f41edd7b025d30e809f"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\approvals\\OverdueTaskSetting.js": {
+    "mtime": 1776669971.0,
+    "hash": "1defaf706739088f5a96d7a19db363a1"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\approvals\\Task.js": {
+    "mtime": 1772798765.0,
+    "hash": "ed7fa7cbcb305d2d76945850ff8c46cc"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\core\\Area.js": {
+    "mtime": 1772798765.0,
+    "hash": "f2c4748063dca00940bf77e054bc71ad"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\core\\City.js": {
+    "mtime": 1772802239.0,
+    "hash": "e72e7dd3a873c112b1db8aac87579743"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\core\\Cluster.js": {
+    "mtime": 1772798765.0,
+    "hash": "06933552f39619896e77c9469182d577"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\core\\Counter.js": {
+    "mtime": 1776492103.0,
+    "hash": "7387c596264284df5277b0350bb99b19"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\core\\Country.js": {
+    "mtime": 1772798765.0,
+    "hash": "25f8973005a58af91bcb9a715a075292"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\core\\CountryMaster.js": {
+    "mtime": 1772798765.0,
+    "hash": "c17d681eabff1c047e67962d3abb8574"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\core\\District.js": {
+    "mtime": 1772798765.0,
+    "hash": "23338baef25e122f10882f2174729cb6"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\core\\State.js": {
+    "mtime": 1772798765.0,
+    "hash": "bf698dcd7e3a356340ee26eb757e1686"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\core\\Zone.js": {
+    "mtime": 1772801516.0,
+    "hash": "240282f02e7fad47ea86d37c034d57f8"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\dealer\\DealerGoal.js": {
+    "mtime": 1772798765.0,
+    "hash": "f03c59a80e540b8ac8dd5f91126ed38e"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\dealer\\DealerKYC.js": {
+    "mtime": 1772798765.0,
+    "hash": "00c6bfd92c526bbf1d81043d86baaa99"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\dealer\\DealerPlan.js": {
+    "mtime": 1772798765.0,
+    "hash": "a3b8f6a0c27cf35a296f01a9b6893482"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\dealer\\DealerProfession.js": {
+    "mtime": 1772798765.0,
+    "hash": "d32558c977e33045d837956a772fc05c"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\dealer\\DealerReward.js": {
+    "mtime": 1772798765.0,
+    "hash": "1392fdcc38a13cb7f10c0c5b1f68f504"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\finance\\AMCPlan.js": {
+    "mtime": 1773467037.0,
+    "hash": "d1e6af010fb503b25543215f4c02605b"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\finance\\AMCService.js": {
+    "mtime": 1772798765.0,
+    "hash": "85aa8af3520126c2726c8b2f1911807f"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\finance\\BundlePlan.js": {
+    "mtime": 1772798765.0,
+    "hash": "b3e430ae604454eee613395530691a88"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\finance\\ChannelPartnerPlan.js": {
+    "mtime": 1772798765.0,
+    "hash": "38d2f246d0503496576a927152dd3652"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\finance\\CompanyMargin.js": {
+    "mtime": 1775816353.0,
+    "hash": "eaec2f940352638064c7a35126da28f9"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\finance\\Discom.js": {
+    "mtime": 1776099369.0,
+    "hash": "c6bf3eb7aae82f1d039b3c7dd8638898"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\finance\\LoanApplication.js": {
+    "mtime": 1772798765.0,
+    "hash": "bfcef43449ce9da57949cb10f67f38aa"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\finance\\LoanProvider.js": {
+    "mtime": 1777021413.0,
+    "hash": "d3b594685e949c831811262b62b896d2"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\finance\\LoanRule.js": {
+    "mtime": 1777024141.0,
+    "hash": "8f535b7598d14e58785742774be8a253"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\finance\\Offer.js": {
+    "mtime": 1775744178.0,
+    "hash": "f018452eb172abfe6afe0c626c6aa7fb"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\finance\\PriceMaster.js": {
+    "mtime": 1772798765.0,
+    "hash": "7ffeaf46dbcfb9263eaddc1f502c5ee4"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\finance\\QuoteSettings.js": {
+    "mtime": 1776492113.0,
+    "hash": "df69c560deaf4a13833739a841bfa74d"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\finance\\SetPrice.js": {
+    "mtime": 1775727669.0,
+    "hash": "939dc098f7668ff0813c7e1566f77002"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\finance\\SetPriceAmc.js": {
+    "mtime": 1775636685.0,
+    "hash": "ecdff7ddf37e3bff57fe07f8f37d0f46"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\franchisee\\FranchiseeManagerSetting.js": {
+    "mtime": 1772798765.0,
+    "hash": "9479a918b269c839514cc6447bca3917"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\franchisee\\FranchiseeOnboardingGoal.js": {
+    "mtime": 1772798765.0,
+    "hash": "7723ad7e999b6149353b0ab905113280"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\franchisee\\FranchiseeOrderSetting.js": {
+    "mtime": 1772798765.0,
+    "hash": "2e2e8b830087cc20eb01262f1669790e"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\franchisee\\FranchiseePlan.js": {
+    "mtime": 1772798765.0,
+    "hash": "2d18bba174ff2f757b6d96a9734cae53"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\franchisee\\FranchiseeProfessionType.js": {
+    "mtime": 1772798765.0,
+    "hash": "765b9ec4e818d28e1d92eda06826ea19"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\franchisee\\FranchiseeReward.js": {
+    "mtime": 1772798765.0,
+    "hash": "2dea61c4e0337f660c48c970ea0e340b"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\hr\\Candidate.js": {
+    "mtime": 1772878912.0,
+    "hash": "51e4b65751699b78447e44ca83964e3b"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\hr\\CandidateTest.js": {
+    "mtime": 1773137397.0,
+    "hash": "66f0b0a5afd8ce28d436ae6d4979768a"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\hr\\CandidateTraining.js": {
+    "mtime": 1773137397.0,
+    "hash": "85c5859462264882b3e3689cc39dae20"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\hr\\Department.js": {
+    "mtime": 1772798765.0,
+    "hash": "41e99291deb08f4bae16ebe89c3c6b28"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\hr\\DepartmentModuleAccess.js": {
+    "mtime": 1772798765.0,
+    "hash": "cc310a1473a41faaa3c0391374345dc8"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\hr\\Designation.js": {
+    "mtime": 1772798765.0,
+    "hash": "a5a311c086ed984eb7a9502101ee7ed2"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\hr\\HRMSSettings.js": {
+    "mtime": 1773138864.0,
+    "hash": "5e96245a444442865424f36c9a33773a"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\hr\\LeaveRequest.js": {
+    "mtime": 1772996780.0,
+    "hash": "4fdd5969e240be6c1d88b27b6e53c8ec"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\hr\\Module.js": {
+    "mtime": 1772798765.0,
+    "hash": "0c6bfc20237c0bc2e322d7400bc4f2e8"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\hr\\Resignation.js": {
+    "mtime": 1773126488.0,
+    "hash": "4382807ea18b58ea833f282b2800b7dc"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\hr\\TemporaryIncharge.js": {
+    "mtime": 1772863734.0,
+    "hash": "b605d8c6058812f25be89fe77983aa43"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\hr\\Vacancy.js": {
+    "mtime": 1773137397.0,
+    "hash": "4dccf06f26e0fdcdba51c3df2fa4eb4d"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\inventory\\Brand.js": {
+    "mtime": 1772798765.0,
+    "hash": "5df9f71334e87c6d05cf971f74f7553c"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\inventory\\BrandManufacturer.js": {
+    "mtime": 1772798765.0,
+    "hash": "3ba847b0812d884ed79f86d3b9838a7b"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\inventory\\BrandSupplier.js": {
+    "mtime": 1774594906.0,
+    "hash": "becc4f987a5ab87c53b6113e6e1e9838"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\inventory\\Category.js": {
+    "mtime": 1772798765.0,
+    "hash": "9f54821dc4a49890b71375771b21640a"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\inventory\\ComboKitAssignment.js": {
+    "mtime": 1775718875.0,
+    "hash": "97b6d52cf9fded3fdd879305d753b15d"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\inventory\\CustomizedComboKit.js": {
+    "mtime": 1772798765.0,
+    "hash": "8b5f37ff4f454e5371a0a349b7917f52"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\inventory\\InventoryItem.js": {
+    "mtime": 1773733632.0,
+    "hash": "33ff7a2eecce83e9b8d2b33e6e9c7409"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\inventory\\InventorySettings.js": {
+    "mtime": 1772798765.0,
+    "hash": "73a85f73c8a720101d8a171bd4f13975"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\inventory\\Product.js": {
+    "mtime": 1773231153.0,
+    "hash": "e77ed86397b9e4c2f5be461fa21b6e7e"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\inventory\\ProductPrice.js": {
+    "mtime": 1773296521.0,
+    "hash": "a1c661874eb8fd90fbbbbbaaad18a1ce"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\inventory\\RestockLimit.js": {
+    "mtime": 1772798765.0,
+    "hash": "a4638d436f6532093b90001eb7c7c1bf"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\inventory\\SKU.js": {
+    "mtime": 1773296500.0,
+    "hash": "401bbf8cf6a9bad0edbe40a8bcaa6be5"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\inventory\\SolarKit.js": {
+    "mtime": 1772798765.0,
+    "hash": "4b481a142d9da5ceee1f6efd35e9eca6"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\inventory\\SolarPanelBundle.js": {
+    "mtime": 1772798765.0,
+    "hash": "ebbad35f47275b444d5b7904a5c53be5"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\inventory\\SubCategory.js": {
+    "mtime": 1772798765.0,
+    "hash": "3ba3f05d17b60f61a33672125a90827c"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\inventory\\Unit.js": {
+    "mtime": 1772798765.0,
+    "hash": "a9f902fe0d1c94a04a571e1755d3da91"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\inventory\\Warehouse.js": {
+    "mtime": 1772798765.0,
+    "hash": "297f7510c471676b7394b9cad3da40ca"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\marketing\\BuyLeadSetting.js": {
+    "mtime": 1777704288.0,
+    "hash": "17c6bc45816b5c5c5a8728fc03520ea1"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\marketing\\BuyLeadSettingLead.js": {
+    "mtime": 1777704201.0,
+    "hash": "911c5da75bfe526b3c19163f9af3a34e"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\marketing\\Campaign.js": {
+    "mtime": 1772798765.0,
+    "hash": "92fd34c7d2ba72ea67f4fff2110d61d6"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\marketing\\CampaignConfig.js": {
+    "mtime": 1775470717.0,
+    "hash": "6ae52fdabce12f754a1e01b9488466bb"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\marketing\\Lead.js": {
+    "mtime": 1772798765.0,
+    "hash": "2e377220c282fbcbf4f67d116c3910d1"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\marketing\\SocialMediaCampaign.js": {
+    "mtime": 1775470724.0,
+    "hash": "719ba59a2678d2cb92dff8452793cd1e"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\marketing\\Survey.js": {
+    "mtime": 1772798765.0,
+    "hash": "4d7735b1bc99c9993790cdc02fdcab10"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\marketing\\SurveyBOM.js": {
+    "mtime": 1776078988.0,
+    "hash": "2aca94d28deb0c6778823dca6f307f56"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\orders\\Delivery.js": {
+    "mtime": 1772798765.0,
+    "hash": "c38b9caebe5c6572dc9242d3bf3376cb"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\orders\\DeliveryBenchmarkPrice.js": {
+    "mtime": 1772798765.0,
+    "hash": "320547654d8666d34caec7bbd6c32b0e"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\orders\\DeliveryType.js": {
+    "mtime": 1774082428.0,
+    "hash": "ddfdae0f6dc829e1b53d167d0c9ae189"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\orders\\Order.js": {
+    "mtime": 1772798765.0,
+    "hash": "25a6d4a0a8bb96002ccd58e4144b6b61"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\orders\\OrderProcurementSetting.js": {
+    "mtime": 1775460845.0,
+    "hash": "775447e616969b3c6272f7630e24b051"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\orders\\ProcurementOrder.js": {
+    "mtime": 1774592327.0,
+    "hash": "f5bede4593c278d9eb6a148c128e5a9c"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\orders\\Vehicle.js": {
+    "mtime": 1774082419.0,
+    "hash": "198c57e3309e441a95c9ddb07825664e"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\partner\\Partner.js": {
+    "mtime": 1772798765.0,
+    "hash": "6499e4c10e1089788af9d3c2a7501cad"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\partner\\PartnerGoal.js": {
+    "mtime": 1777699063.0,
+    "hash": "66bdbdaa30f4a91d7f16c3ac9aa973b9"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\partner\\PartnerPlan.js": {
+    "mtime": 1777698394.0,
+    "hash": "7ebfbb1c0f1ca62cf1285efaac8e118c"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\partner\\PartnerProfession.js": {
+    "mtime": 1777700153.0,
+    "hash": "78c33eccee018d8adedc4bd9f983b880"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\partner\\PartnerReward.js": {
+    "mtime": 1777698134.0,
+    "hash": "9c802347d736780f083d87c24dc94152"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\projects\\BuildingType.js": {
+    "mtime": 1772798765.0,
+    "hash": "69112b98b5f14d467a47c31dbc1846c1"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\projects\\Installation.js": {
+    "mtime": 1772798765.0,
+    "hash": "7427622d1af2ccdab187c36a62632aa2"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\projects\\InstallationRate.js": {
+    "mtime": 1772798765.0,
+    "hash": "ec12b8e6d5e58c2319a5bd83f8bc0c45"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\projects\\PlaceholderName.js": {
+    "mtime": 1772798765.0,
+    "hash": "d96483bb24e64b863f5546c134399090"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\projects\\Project.js": {
+    "mtime": 1774680023.0,
+    "hash": "e94fe8e8034ae05900fa1e260a22a0d5"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\projects\\ProjectCategoryMapping.js": {
+    "mtime": 1774021076.0,
+    "hash": "0a6585a1764bb7a7ba547629a56c1eed"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\projects\\ProjectConfiguration.js": {
+    "mtime": 1774262583.0,
+    "hash": "b445bc6b3dcd24369e0b2bd11197bccd"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\projects\\ProjectDocument.js": {
+    "mtime": 1772798765.0,
+    "hash": "36d9b55bd7494dcb6e0cbe042ee3241e"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\projects\\ProjectJourneyStage.js": {
+    "mtime": 1774430086.0,
+    "hash": "1d98b64090851c9823b9a1fd4cd60c5d"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\projects\\ProjectOverdueSetting.js": {
+    "mtime": 1772798765.0,
+    "hash": "73e580ec4a023d00f8dd7dd261f23078"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\projects\\ProjectType.js": {
+    "mtime": 1772798765.0,
+    "hash": "3c49a810b248ea15a274f21a0fae92b8"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\projects\\StructureType.js": {
+    "mtime": 1772798765.0,
+    "hash": "34d12e7b15e2ae46a3b36fd21f83b449"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\projects\\SubProjectType.js": {
+    "mtime": 1772798765.0,
+    "hash": "8789ab55d98c7fdea0663fd68cdbf5b7"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\projects\\TerraceType.js": {
+    "mtime": 1772798765.0,
+    "hash": "dbe700880a901724e99b6320b284ee72"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\settings\\ChecklistCategory.js": {
+    "mtime": 1772798765.0,
+    "hash": "3838a5c911c89c1e979d8c0a8012757b"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\settings\\ChecklistTemplate.js": {
+    "mtime": 1772798765.0,
+    "hash": "f2a018449e18c6f67323cf035575db65"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\settings\\ModuleCompletion.js": {
+    "mtime": 1772798765.0,
+    "hash": "936ec75e0993c222951ae5bebfddfd74"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\tickets\\Dispute.js": {
+    "mtime": 1772798765.0,
+    "hash": "3ad1efb0596f9938628d62e186a1249f"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\tickets\\Ticket.js": {
+    "mtime": 1772798765.0,
+    "hash": "b613d243dd49ded5b7c6591a17014a3d"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\users\\Permission.js": {
+    "mtime": 1772798765.0,
+    "hash": "ea8695e7a6a0b452e6644c73f843d866"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\users\\Role.js": {
+    "mtime": 1772869207.0,
+    "hash": "916aec456dc12b122a73441474c51d6f"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\users\\User.js": {
+    "mtime": 1773126486.0,
+    "hash": "c686604d2ae2f8af93b9635392a8055e"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\users\\UserPerformance.js": {
+    "mtime": 1772798765.0,
+    "hash": "dfb7ef9eec0483fda0e95c8540f9006c"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\vendors\\InstallerAgency.js": {
+    "mtime": 1774859108.0,
+    "hash": "b66fda50b4896d9541e908c70d43bd9a"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\vendors\\InstallerAgencyPlan.js": {
+    "mtime": 1774866332.0,
+    "hash": "09685a2b61e18edcb6edae62491f9b96"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\vendors\\InstallerRating.js": {
+    "mtime": 1774862442.0,
+    "hash": "ca73fb25cc1fd3311452214f35239441"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\vendors\\InstallerTool.js": {
+    "mtime": 1774766568.0,
+    "hash": "bef561eb1fa991c4ac606cc74bbf1b43"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\vendors\\InstallerVendor.js": {
+    "mtime": 1774859134.0,
+    "hash": "aa5568010c61d4618b740cea94cd6d7c"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\vendors\\InstallerVendorPlan.js": {
+    "mtime": 1774679451.0,
+    "hash": "37a5da456713ee8b99a7ad5b3cc463d1"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\vendors\\SolarInstaller.js": {
+    "mtime": 1774859121.0,
+    "hash": "fbfb0f16a1fb1caf11977e0c01102007"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\vendors\\SolarInstallerPlan.js": {
+    "mtime": 1774867960.0,
+    "hash": "3929bcd87ca3118518740e630d04d48f"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\vendors\\SupplierType.js": {
+    "mtime": 1774513409.0,
+    "hash": "de910e4682a2bae66b60ac4c7f54cf65"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\vendors\\SupplierVendor.js": {
+    "mtime": 1772798765.0,
+    "hash": "d92187397b0b35633ee7f1b8bdff1150"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\vendors\\SupplierVendorPlan.js": {
+    "mtime": 1774609194.0,
+    "hash": "bdb558b67433183ccf364308b80d27f7"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\vendors\\VendorDeliveryConfig.js": {
+    "mtime": 1772798765.0,
+    "hash": "5300e6f233edbbcce06d9c7322ce6607"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\vendors\\VendorDeliveryPlan.js": {
+    "mtime": 1772798765.0,
+    "hash": "156d0a9948aaa55c91ddf5877a52d770"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\models\\vendors\\VendorOrder.js": {
+    "mtime": 1772798765.0,
+    "hash": "a96b656fd07a3149ba8a8e770f2b70db"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\routes\\admin\\adminConfig.js": {
+    "mtime": 1772798765.0,
+    "hash": "501d049bc6f259925d5b7e88d3d5897e"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\routes\\approvals\\approvalOverdueRoutes.js": {
+    "mtime": 1772798765.0,
+    "hash": "2ee6c9d3cf6ac906a7ca907678306fe8"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\routes\\approvals\\approvalsRoutes.js": {
+    "mtime": 1772798765.0,
+    "hash": "f22274dc952b3d4501742ed6764ea8b6"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\routes\\approvals\\overdueStatusRoutes.js": {
+    "mtime": 1776677626.0,
+    "hash": "1eb46c545b39a8b05b014138d115e196"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\routes\\approvals\\overdueTaskRoutes.js": {
+    "mtime": 1776533124.0,
+    "hash": "894a7600f8fa81dc68d1b8805ff5af8b"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\routes\\auth\\auth.js": {
+    "mtime": 1772798765.0,
+    "hash": "ac66e75777ff0eb9e39a11683d6fc103"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\routes\\core\\locations.js": {
+    "mtime": 1772805273.0,
+    "hash": "6d3cfb20530764ef2cc93d156b1a416e"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\routes\\core\\masters.js": {
+    "mtime": 1773296682.0,
+    "hash": "a44457fe60863ae0425da7a29772814f"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\routes\\dashboard\\dashboard.js": {
+    "mtime": 1772798765.0,
+    "hash": "7224c8fd70de3b563901632f5a02eec7"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\routes\\dealer\\commissionRoutes.js": {
+    "mtime": 1772798765.0,
+    "hash": "0ed150ee6c9801a68cf76961f29d6f8b"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\routes\\dealer\\dealerSettingsRoutes.js": {
+    "mtime": 1772798765.0,
+    "hash": "8691bad6ed715db5634e9929523c34f4"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\routes\\dealerManager\\dealerManagerRoutes.js": {
+    "mtime": 1772798765.0,
+    "hash": "747e50e50d7452491083df607a6ef350"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\routes\\finance\\loanApplicationRoutes.js": {
+    "mtime": 1772798765.0,
+    "hash": "394f32ae0a3068fb65a5c29956b63451"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\routes\\finance\\loanProviderRoutes.js": {
+    "mtime": 1777021435.0,
+    "hash": "125446f8557690fb36b2ac61503f4b2a"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\routes\\finance\\loanRoutes.js": {
+    "mtime": 1772798765.0,
+    "hash": "0293d10aa519e807fc6475b9da13f89a"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\routes\\franchisee\\franchiseeRoutes.js": {
+    "mtime": 1772798765.0,
+    "hash": "5f7317bd271eb640caa179fd52147fed"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\routes\\franchiseeManager\\franchiseeManagerSettingRoutes.js": {
+    "mtime": 1772798765.0,
+    "hash": "7c689a6d4c764e4d9c9dceff607a2af6"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\routes\\hr\\candidatePortalRoutes.js": {
+    "mtime": 1772878976.0,
+    "hash": "4f773eb873d87b5ce58dae91e5270cb9"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\routes\\hr\\departmentModuleRoutes.js": {
+    "mtime": 1772957751.0,
+    "hash": "bb0cbb303c6a846491a86e533a527313"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\routes\\hr\\employeeTrainingRoutes.js": {
+    "mtime": 1772893523.0,
+    "hash": "ea41f3364048fa989ec579d048d146ca"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\routes\\hr\\hrRoutes.js": {
+    "mtime": 1773126523.0,
+    "hash": "1f3026e986ea3975a7af30019f7ad987"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\routes\\hr\\leaveApprovalRoutes.js": {
+    "mtime": 1772996818.0,
+    "hash": "a3fd446de70cf5a37338a1c05919742f"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\routes\\hr\\organizationRoutes.js": {
+    "mtime": 1772798765.0,
+    "hash": "047fcc349b990bbff6432b6c0d36e3ae"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\routes\\inventory\\brandRoutes.js": {
+    "mtime": 1772798765.0,
+    "hash": "4ef6fe02dc8bde275a80aa0d8b120fcc"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\routes\\inventory\\combokitRoutes.js": {
+    "mtime": 1775727226.0,
+    "hash": "7a0afdb8a34ebd84901439239e3a5c86"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\routes\\inventory\\inventoryRoutes.js": {
+    "mtime": 1773739911.0,
+    "hash": "119cae09e715d5c6957781dbbebf0219"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\routes\\inventory\\products.js": {
+    "mtime": 1772798765.0,
+    "hash": "d11cccbf9c259586f114c45f5ea5f3e3"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\routes\\marketing\\campaignRoutes.js": {
+    "mtime": 1775460845.0,
+    "hash": "fdc1e5210a1cd4a06e073e996c1803c6"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\routes\\marketing\\leadRoutes.js": {
+    "mtime": 1772798765.0,
+    "hash": "588f78e0c9eb0d0f57d5bc1b418b71b5"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\routes\\marketing\\surveyRoutes.js": {
+    "mtime": 1772798765.0,
+    "hash": "9824365071283cbc24cb54c2f9daa99d"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\routes\\orders\\deliveries.js": {
+    "mtime": 1772798765.0,
+    "hash": "2f20473aa3966c325210a55733bfd9f2"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\routes\\orders\\orders.js": {
+    "mtime": 1772798765.0,
+    "hash": "893c15a541354d99530c29885ad2f276"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\routes\\orders\\procurementRoutes.js": {
+    "mtime": 1772798765.0,
+    "hash": "8c652bbf82b6824993176a474081cc69"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\routes\\partner\\partnerSettingsRoutes.js": {
+    "mtime": 1772798765.0,
+    "hash": "603d6ce9dcfb61b15e8f05f488ac0288"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\routes\\performance\\performanceRoutes.js": {
+    "mtime": 1776670917.0,
+    "hash": "4d480bdf97ec133cc3c7c470abfac392"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\routes\\performance\\statisticsRoutes.js": {
+    "mtime": 1772798765.0,
+    "hash": "dcd7acd988f44b246b6c4b9a82c1b24f"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\routes\\projects\\installations.js": {
+    "mtime": 1772798765.0,
+    "hash": "603cddee0bca2c21eb06a8a7e70ae18b"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\routes\\projects\\projectRoutes.js": {
+    "mtime": 1774034352.0,
+    "hash": "116ff80bede3a743d478644c9540ab37"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\routes\\projects\\solarKitRoutes.js": {
+    "mtime": 1772798765.0,
+    "hash": "f60e937bed091388688fdbe3f6531f4f"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\routes\\settings\\buyLeadSettingRoutes.js": {
+    "mtime": 1777705333.0,
+    "hash": "79a55d2472c0766b9c9bdd778dd483b0"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\routes\\settings\\checklistRoutes.js": {
+    "mtime": 1772798765.0,
+    "hash": "c45e2617a131d5b9446ec9f2d8c9c038"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\routes\\settings\\deliverySettingsRoutes.js": {
+    "mtime": 1773998873.0,
+    "hash": "538ae3902f5cc7cf67c9a6d559350d45"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\routes\\settings\\hrmsSettingsRoutes.js": {
+    "mtime": 1772967878.0,
+    "hash": "dca010163cbef6e5f890a2ea76b2ced6"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\routes\\settings\\orderProcurementSettingRoutes.js": {
+    "mtime": 1772798766.0,
+    "hash": "24780aff5422fe47680441c46917483a"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\routes\\settings\\projectSettingsRoutes.js": {
+    "mtime": 1774254593.0,
+    "hash": "b269cd0406e70e4874f2f7581bf34a28"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\routes\\settings\\quoteSettingsRoutes.js": {
+    "mtime": 1776099183.0,
+    "hash": "df05ee25a5c2d215449cecfb05a64d39"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\routes\\settings\\salesSettingsRoutes.js": {
+    "mtime": 1775816443.0,
+    "hash": "bf042e1d250f49d7e3233f9412c82a01"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\routes\\tickets\\disputeRoutes.js": {
+    "mtime": 1772798766.0,
+    "hash": "61dd2d7a845930ebd77f0380e96d86ac"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\routes\\tickets\\ticketRoutes.js": {
+    "mtime": 1772798766.0,
+    "hash": "02e3339c867947dffbc2668d08b135f5"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\routes\\users\\users.js": {
+    "mtime": 1772798766.0,
+    "hash": "ab1c545c4911df8c9f5adda8ade57301"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\routes\\vendors\\installerRoutes.js": {
+    "mtime": 1774867991.0,
+    "hash": "706747cf9dac0315525948983b14b9a0"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\routes\\vendors\\vendorRoutes.js": {
+    "mtime": 1772798766.0,
+    "hash": "ce8453c20fd97db446f8e82e7be8ae7e"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\scripts\\checkMissingRecruits.js": {
+    "mtime": 1772906470.0,
+    "hash": "36aa99795e9f95e35d89767446bc044f"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\scripts\\checkUsers.js": {
+    "mtime": 1772905743.0,
+    "hash": "01c7b262ece48c92f4f7e590884c1482"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\scripts\\checkUsers2.js": {
+    "mtime": 1772905782.0,
+    "hash": "4aab75ca673ad1430c0ae08909029d2a"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\scripts\\check_collections.js": {
+    "mtime": 1774676728.0,
+    "hash": "ec02becae0f0ece40adc32d82c260ede"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\scripts\\check_collections_v2.js": {
+    "mtime": 1774676787.0,
+    "hash": "651879e96a0d10f5b65722fd19af96cf"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\scripts\\check_countries.js": {
+    "mtime": 1772872458.0,
+    "hash": "28b7d023118cf57b1bfd0b7f768bd1cf"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\scripts\\check_depts.js": {
+    "mtime": 1772872400.0,
+    "hash": "1985b6e4e57b80587c5e19dc7919a5ed"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\scripts\\check_roles.js": {
+    "mtime": 1772872351.0,
+    "hash": "37414a07d952c557b2665cf1fee622d3"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\scripts\\clear_stages.js": {
+    "mtime": 1774431875.0,
+    "hash": "01864cf55a71ac62ad10a8244493605f"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\scripts\\debug_all.js": {
+    "mtime": 1772872431.0,
+    "hash": "1e63819f6305cb00472421ba4d71c55f"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\scripts\\dropSupplierTypeIndex.js": {
+    "mtime": 1773920616.0,
+    "hash": "88669cee20efb59ad8f514c54bd1e895"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\scripts\\dropSupplierTypeIndex.mjs": {
+    "mtime": 1773920876.0,
+    "hash": "05af2c0563dd36cd00f550ddf25fcf61"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\scripts\\drop_all_ivp_indexes.js": {
+    "mtime": 1774676828.0,
+    "hash": "62314b199059be5319beab2895d69e0b"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\scripts\\drop_collection.js": {
+    "mtime": 1774677045.0,
+    "hash": "4ed678a9253dbc3c963065d757f69e8c"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\scripts\\drop_unique_index.js": {
+    "mtime": 1774676672.0,
+    "hash": "3564c166d9c7a0016ffdf7284d327992"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\scripts\\drop_unique_index_v2.js": {
+    "mtime": 1774676709.0,
+    "hash": "2b423b4f27f938d55eaa955d65caebed"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\scripts\\final_purge.js": {
+    "mtime": 1774676965.0,
+    "hash": "d84e36a7f36ca32f8843f9e19fbdd81e"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\scripts\\findState.js": {
+    "mtime": 1772906014.0,
+    "hash": "dfa473ad3283eff578777db622096694"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\scripts\\fix_role_departments.js": {
+    "mtime": 1772872525.0,
+    "hash": "b8d4b21cf23aea2a95e336c8595aeb0a"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\scripts\\listEmployees.js": {
+    "mtime": 1772906373.0,
+    "hash": "5b30d29ed94c0d73bde241e9e1259adf"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\scripts\\patchMissingUsers.js": {
+    "mtime": 1772906578.0,
+    "hash": "c84ff39b8efec2457687ef3ba538336d"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\scripts\\patchUsers.js": {
+    "mtime": 1772906087.0,
+    "hash": "04a5530e317e4d547c87d7bc0df10cda"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\scripts\\purge_global_index.js": {
+    "mtime": 1774676929.0,
+    "hash": "c2d748d3dc49479fc74204696738b165"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\scripts\\purge_ivp_indexes.js": {
+    "mtime": 1774676858.0,
+    "hash": "6a2282d2d027010e87cf82394855dc9a"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\scripts\\restore_steps.js": {
+    "mtime": 1774431996.0,
+    "hash": "91f52bcbdae5837bcdd4c7d591bd0f83"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\scripts\\seedPartnerPlans.js": {
+    "mtime": 1774029593.0,
+    "hash": "1d64ecdc0b267a795b62b961bb402b3a"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\scripts\\seed_journey_stages.js": {
+    "mtime": 1774262317.0,
+    "hash": "4ac073638ca1c064f749bef3994d91a8"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\scripts\\testApi.js": {
+    "mtime": 1772901457.0,
+    "hash": "8645516dc150dbe236bda61fb38c21c7"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\scripts\\testLogin.js": {
+    "mtime": 1772901427.0,
+    "hash": "9719fd420666f4532892bdd136b0a61f"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\scripts\\test_dup_insert.js": {
+    "mtime": 1774676909.0,
+    "hash": "feecd86b15833f800e93f5e213eadca7"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-server\\utils\\statusCalculator.js": {
+    "mtime": 1776670883.0,
+    "hash": "4ad6d4222224dbef89f205e32337f928"
+  },
+  "C:\\Users\\gn17g\\OneDrive\\Desktop\\solar\\solar\\solar-client\\index.html": {
+    "mtime": 1772798749.0,
+    "hash": "c0d0ad6be5ed92337163c0a064b66173"
+  }
+}
