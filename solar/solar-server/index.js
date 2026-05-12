@@ -91,18 +91,150 @@ if (allowedOrigins.length === 0 && process.env.NODE_ENV !== 'production') {
   allowedOrigins.push('http://localhost:3000');
 }
 
+// Production Netlify frontend URL. Keep this in code so the public deploy works
+// even if the hosting provider environment variables are incomplete.
+allowedOrigins.push('https://frabjous-sherbet-c11932.netlify.app');
+
+const isAllowedOrigin = (origin) => {
+  if (allowedOrigins.includes(origin)) return true;
+
+  try {
+    const { hostname, protocol } = new URL(origin);
+    return (
+      protocol === 'https:' &&
+      (hostname === 'frabjous-sherbet-c11932.netlify.app' ||
+        hostname.endsWith('--frabjous-sherbet-c11932.netlify.app'))
+    );
+  } catch {
+    return false;
+  }
+};
+
 app.use(cors({
   origin: function (origin, callback) {
     // Allow requests with no origin (like mobile apps or curl requests)
     if (!origin) return callback(null, true);
 
-    if (allowedOrigins.indexOf(origin) !== -1) {
+    if (isAllowedOrigin(origin)) {
       callback(null, true);
     } else {
       console.log('Blocked by CORS:', origin);
-      callback(new Error('Not allowed by CORS'));
+      callback(null, false);
     }
   },
+  credentials: true,
+  methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS', 'PATCH'],
+  allowedHeaders: ['Content-Type', 'Authorization', 'X-Requested-With']
+}));
+app.use(express.json({ limit: '50mb' }));
+app.use(express.urlencoded({ limit: '50mb', extended: true }));
+
+app.use('/api/auth', authRoutes);
+app.use('/api/users', userRoutes);
+app.use('/api/products', productRoutes);
+app.use('/api/orders', orderRoutes);
+app.use('/api/deliveries', deliveryRoutes);
+app.use('/api/installations', installationRoutes);
+app.use('/api/dashboard', dashboardRoutes);
+app.use('/api/admin-config', adminConfigRoutes);
+app.use('/api/locations', locationRoutes);
+app.use('/api/masters', masterRoutes);
+app.use('/api/hr', hrRoutes);
+app.use('/api/vendors', vendorRoutes);
+app.use('/api/sales-settings', salesSettingsRoutes);
+app.use('/api/procurement-orders', procurementRoutes);
+app.use('/api/campaigns', campaignRoutes);
+app.use('/api/department-modules', departmentModuleRoutes);
+app.use('/api/delivery-settings', deliverySettingsRoutes);
+app.use('/api/installer', installerRoutes);
+app.use('/api/inventory', inventoryRoutes);
+app.use('/api/brand', brandRoutes);
+app.use('/api/combokit', combokitRoutes);
+app.use('/api/franchisee', franchiseeRoutes);
+app.use('/api/dealer-settings', dealerSettingsRoutes);
+app.use('/api/partner-settings', partnerSettingsRoutes);
+app.use('/api/hrms-settings', hrmsSettingsRoutes);
+app.use('/api/project-settings', projectSettingsRoutes);
+app.use('/api/quote-settings', quoteSettingsRoutes);
+app.use('/api/approval-overdue', approvalOverdueRoutes);
+app.use('/api/overdue-task-settings', overdueTaskRoutes);
+app.use('/api/overdue-status-settings', overdueStatusRoutes);
+app.use('/api/franchisee-manager-settings', franchiseeManagerSettingRoutes);
+app.use('/api/buy-lead-settings', buyLeadSettingRoutes);
+app.use('/api/checklist', checklistRoutes);
+app.use('/api/loan', loanRoutes);
+app.use('/api/loan-providers', loanProviderRoutes);
+app.use('/api/performance', performanceRoutes);
+app.use('/api/loan-applications', loanApplicationRoutes);
+app.use('/api/statistics', statisticsRoutes);
+app.use('/api/organization', organizationRoutes);
+app.use('/api/approvals', approvalsRoutes);
+app.use('/api/projects', projectRoutes);
+app.use('/api/leads', leadRoutes);
+app.use('/api/surveys', surveyRoutes);
+app.use('/api/dealer/commission', commissionRoutes);
+app.use('/api/tickets', ticketRoutes);
+app.use('/api/solar-kits', solarKitRoutes);
+app.use('/api/dealer-manager', dealerManagerRoutes);
+app.use('/api/disputes', disputeRoutes);
+app.use('/api/settings/order-procurement', orderProcurementSettingRoutes);
+app.use('/api/candidate-portal', candidatePortalRoutes);
+app.use('/api/employee/training', employeeTrainingRoutes);
+app.use('/api/leave-approvals', leaveApprovalRoutes);
+
+// Root level aliases for specific master data as per requirement
+app.get('/api/supplier-types', getSupplierTypes);
+app.get('/api/modules', getAllModules);
+
+app.get('/api/health', (req, res) => {
+  const dbStatus = mongoose.connection.readyState === 1 ? 'Connected' : 'Disconnected';
+  res.status(200).json({
+    message: 'Server is running',
+    database: dbStatus,
+    timestamp: new Date().toISOString()
+  });
+});
+
+app.get('/', (req, res) => {
+  const dbStatus = mongoose.connection.readyState === 1 ? 'Connected' : 'Disconnected';
+  res.status(200).json({
+    message: 'Welcome to Solar ERP API',
+    status: 'Running',
+    database: dbStatus
+  });
+});
+
+app.use((err, req, res, next) => {
+  console.error(err.stack);
+
+  // Handle Mongoose Validation Error
+  if (err.name === 'ValidationError') {
+    const messages = Object.values(err.errors).map(val => {
+      // If it's a cast error inside validation, make it friendly
+      if (val.name === 'CastError') {
+        return `Please select a valid ${val.path || 'option'}`;
+      }
+      return val.message;
+    });
+    return res.status(400).json({ success: false, message: messages.join(', ') });
+  }
+
+  // Handle Mongoose Cast Error (e.g., invalid ObjectID)
+  if (err.name === 'CastError') {
+    return res.status(400).json({ 
+      success: false, 
+      message: `Invalid selection for ${err.path}. Please fill in this field correctly.` 
+    });
+  }
+
+  // Handle Mongoose Duplicate Key Error
+  if (err.code === 11000) {
+    const field = Object.keys(err.keyValue)[0];
+    return res.status(400).json({
+      success: false,
+      message: `${field.charAt(0).toUpperCase() + field.slice(1)} already exists. Choose a different name.`,
+      error: err.message
+    });
   credentials: true,
   methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS', 'PATCH'],
   allowedHeaders: ['Content-Type', 'Authorization', 'X-Requested-With']
@@ -223,12 +355,10 @@ app.use((err, req, res, next) => {
 
 const PORT = process.env.PORT || 5000;
 
-if (process.env.NODE_ENV !== 'production') {
-  connectDB().then(() => {
-    app.listen(PORT, () => {
-      console.log(`Server running on port ${PORT}`);
-    });
+connectDB().then(() => {
+  app.listen(PORT, () => {
+    console.log(`Server running on port ${PORT}`);
   });
-}
+});
 
 export default app;
